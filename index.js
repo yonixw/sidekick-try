@@ -8,7 +8,7 @@ setInterval(() => {
 
 SidekickDebugger.start({
   apiKey: "aaaa-bbbb-cccc-dddd",
-  logLevel: "debug",
+  //  logLevel: "debug",
   brokerHost: "ws://localhost",
   brokerPort: 7777,
   applicationName: "sidekick-broker-app",
